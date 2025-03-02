@@ -3,17 +3,17 @@
 ### 🛠 技术栈
 #### 核心架构
 <div align="center">
-  <img alt="核心架构" src="https://skillicons.dev/icons?i=java,spring,nodejs,python,php" />
+  <img alt="核心架构" src="https://skillicons.dev/icons?i=java,spring,nodejs,python,php,linux,bash" />
 </div>
 
 #### 数据管理
 <div align="center">
-  <img alt="数据管理" src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongodb,hbase" />
+  <img alt="数据管理" src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongodb,rabbitmq,kafka,sqlite" />
 </div>
 
 #### 前端生态
 <div align="center">
-  <img alt="前端生态" src="https://skillicons.dev/icons?i=vuejs,html,css,js,ts,electron" />
+  <img alt="前端生态" src="https://skillicons.dev/icons?i=vuejs,html,css,js,jquery,ts,angular,electron" />
 </div>
 
 #### 云原生
@@ -23,7 +23,7 @@
 
 #### 效能工具
 <div align="center">
-  <img alt="效能工具" src="https://skillicons.dev/icons?i=git,postman,figma,ai,githubactions" />
+  <img alt="效能工具" src="https://skillicons.dev/icons?i=git,postman,figma,ai,github" />
 </div>
 
 ### 🚀 专注领域
@@ -48,5 +48,5 @@
 
 
 ### 📫 联系我
-![wechat](assets/wechat.png)]
+![wechat](assets/wechat.png)
 

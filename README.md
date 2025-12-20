@@ -11,7 +11,7 @@ With **10+ years of professional experience**, I specialize in delivering produc
 ## 🧠 Core Expertise
 
 - Full-stack web application development
-- **Browser extension architecture (Chrome, Edge, Firefox)**
+- Browser extension architecture (Chrome, Edge, Firefox)
 - SaaS platforms & subscription systems
 - Workflow automation & productivity tools
 - System design & legacy modernization
